@@ -1,0 +1,10 @@
+# Visual Studio files
+.vs/
+*.vscode/
+*.user
+*.suo
+*.sqlite
+*.sqlite-journal
+*.db
+*.db-shm
+*.db-wal
